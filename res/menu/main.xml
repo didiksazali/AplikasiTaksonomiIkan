@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_entri"
+        android:title="Entri Data"/>
+    <item
+        android:id="@+id/menu_update"
+        android:title="Update Data"/>
+    <item
+        android:id="@+id/menu_hapus"
+        android:title="Hapus Data"/>
+    <item
+        android:id="@+id/menu_laporan"
+        android:title="Laporan"/>
+    <item
+        android:id="@+id/selesai"
+        android:title="Selesai"/>
+
+</menu>
